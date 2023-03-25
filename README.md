@@ -14,7 +14,7 @@ I’m currently learning data science and machine learning.
 
 ### Where to find me
 <p align="left">
- <a href="mailto:irvanfebyanto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>   
+ <a href="mailto:febyantoirvan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>   
  <a href="https://www.linkedin.com/in/irvan-febyanto/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedln-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
 </p>
 
